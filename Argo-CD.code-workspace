@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../workspace/CosmosDB/helm/product-service/templates"
+		}
+	],
+	"settings": {}
+}
